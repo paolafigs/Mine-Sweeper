@@ -1,2 +1,2 @@
-# Mine-Sweeper
+# Mine-Sweeper :)
 AI Workshop #2 
